@@ -18,7 +18,7 @@ Maze Escape is a Python-based maze game built using Pygame, where the player nav
 
 ## How to Run
 
-** Install Dependencies:**
+**Install Dependencies:**
 
 pip install pygame
 

@@ -1,10 +1,10 @@
-### Maze Escape Game
+# Maze Escape Game
 
 ## Project Overview
 
 Maze Escape is a Python-based maze game built using Pygame, where the player navigates through a randomly generated maze to reach the exit before time runs out. The game tracks elapsed time and provides a win/lose condition based on whether the player reaches the goal within the time limit.
 
- ## Features
+## Features
 
 **Maze Generation**: The game includes a grid-based maze where walls and paths are predefined.
 
